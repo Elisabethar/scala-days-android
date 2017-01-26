@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45cdf7f5105c4919afdedfee5d586c27)](https://www.codacy.com/app/harlamova/scala-days-android?utm_source=github.com&utm_medium=referral&utm_content=Elisabethar/scala-days-android&utm_campaign=badger)
 Scala Days for Android [![Circle CI](https://circleci.com/gh/47deg/scala-days-android.svg?style=svg&circle-token=db18a415dd553b6fe385ce8fa0a5fa3503b0dda1)](https://circleci.com/gh/47deg/scala-days-android)
 ============================
 
